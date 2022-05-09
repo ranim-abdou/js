@@ -8,11 +8,11 @@ var email = 'rany99s5gmail.com';
 
 
 
-window.prompt('Nome', myNome);
-window.prompt('Cognome', surname);
-window.prompt('Età', age);
-window.prompt('Città', city);
-window.prompt('Email', email);
+window.prompt('Nome');
+window.prompt('Cognome');
+window.prompt('Età');
+window.prompt('Città');
+window.prompt('Email');
 
 console.log(myNome +' '+ surname + ' '+ age+' ' +city+' '+(email));
 
